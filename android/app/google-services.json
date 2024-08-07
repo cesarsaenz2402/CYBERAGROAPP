@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "74343518880",
+    "project_id": "cybert-conect",
+    "storage_bucket": "cybert-conect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74343518880:android:387b4f089763a5b933afc5",
+        "android_client_info": {
+          "package_name": "com.example.cybert_conect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74343518880-sq6vcqb3ruoog0fotfhqqced2enns25h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBczWMb0vwJ1h1hAvazj25IM7SUDiAm-h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74343518880-sq6vcqb3ruoog0fotfhqqced2enns25h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74343518880-inhmofmolbh7odudosn9sa2euhmebog3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cybertConect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74343518880:android:b40720e30fd8b3e033afc5",
+        "android_client_info": {
+          "package_name": "cyber.conect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74343518880-qvoq7npmfqkhela6ig94rtmn51dbcc9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cyber.conect",
+            "certificate_hash": "b1c0867ba1897debce25d5e6725da12048a234d7"
+          }
+        },
+        {
+          "client_id": "74343518880-sq6vcqb3ruoog0fotfhqqced2enns25h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBczWMb0vwJ1h1hAvazj25IM7SUDiAm-h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74343518880-sq6vcqb3ruoog0fotfhqqced2enns25h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74343518880-inhmofmolbh7odudosn9sa2euhmebog3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cybertConect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
