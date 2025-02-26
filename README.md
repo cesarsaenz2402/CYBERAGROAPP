@@ -24,6 +24,4 @@ Interfaz Responsiva y Optimizada:
 
 Diseño adaptado a diferentes dispositivos móviles.
 Beneficios de CyberAgroApp:
-✅ Facilita el acceso a maquinaria agrícola sin necesidad de compra.
-✅ Optimiza la gestión de arrendamientos mediante una plataforma digital.
-✅ Ahorro de tiempo y dinero tanto para propietarios como para arrendatarios.
+Facilita el acceso a maquinaria agrícola sin necesidad de compra. Optimiza la gestión de arrendamientos mediante una plataforma digital.Ahorro de tiempo y dinero tanto para propietarios como para arrendatarios.
