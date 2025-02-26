@@ -1,16 +1,29 @@
 # cyberagroapp
 
-A new Flutter project.
+CyberAgroApp es una aplicación diseñada para la gestión de arrendamientos de maquinaria agrícola. Su propósito es facilitar la conexión entre propietarios de equipos agrícolas y agricultores que necesitan alquilar maquinaria para sus actividades productivas.
 
-## Getting Started
+Características principales de CyberAgroApp:
+Registro y Administración de Equipos:
 
-This project is a starting point for a Flutter application.
+Permite a los propietarios registrar sus máquinas con detalles como nombre, modelo, categoría, capacidad, precio, ubicación y disponibilidad.
+Incluye la carga de imágenes para una mejor visualización.
+Búsqueda y Filtrado:
 
-A few resources to get you started if this is your first Flutter project:
+Los usuarios pueden buscar equipos según categorías específicas.
+Filtrado por ubicación, precio y características del equipo.
+Arrendamiento de Equipos:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Permite a los interesados solicitar el alquiler de una máquina directamente desde la aplicación.
+Posibilidad de ver la disponibilidad del equipo antes de realizar la reserva.
+Integración con Firebase:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Almacena los datos de los equipos y usuarios en Firestore.
+Usa Firebase Authentication para el inicio de sesión y gestión de usuarios.
+
+Interfaz Responsiva y Optimizada:
+
+Diseño adaptado a diferentes dispositivos móviles.
+Beneficios de CyberAgroApp:
+✅ Facilita el acceso a maquinaria agrícola sin necesidad de compra.
+✅ Optimiza la gestión de arrendamientos mediante una plataforma digital.
+✅ Ahorro de tiempo y dinero tanto para propietarios como para arrendatarios.
